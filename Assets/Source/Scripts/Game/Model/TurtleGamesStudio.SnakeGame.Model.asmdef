@@ -1,0 +1,19 @@
+{
+    "name": "TurtleGamesStudio.SnakeGame.Model",
+    "rootNamespace": "TurtleGamesStudio.SnakeGame.Model",
+    "references": [
+        "GUID:0c856b6f0504acc45a06ca18947a0ea3",
+        "GUID:1530a967b84cfb44dbdd5e8a1989764f",
+        "GUID:fb8c7eef73142604784d3e566acac340",
+        "GUID:037bcaccc91c8004983a2a9fa9aad4a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

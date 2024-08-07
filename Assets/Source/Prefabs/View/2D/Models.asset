@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e21ef41a587edf41884d52702d35987, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  <WallView>k__BackingField: {fileID: 6440615894739481618, guid: 80baab42c706e3b4a86510c1efc89b44, type: 3}
+  <FloorView>k__BackingField: {fileID: 2595693170719770748, guid: 3d5ce6d6b50b79049a1056e718aa02eb, type: 3}
+  <SnakeView>k__BackingField: {fileID: 2633675569550482690, guid: 2152e561f48bc3f418a6d1ff3adbb568, type: 3}
+  <TailView>k__BackingField: {fileID: 4269284748013965297, guid: a40e70f0114897746a8f493ff8f80e62, type: 3}
+  <FoodView>k__BackingField: {fileID: 3010224736978031474, guid: 1b22bd9e6b4a39a4c9bf5b078a6a739a, type: 3}

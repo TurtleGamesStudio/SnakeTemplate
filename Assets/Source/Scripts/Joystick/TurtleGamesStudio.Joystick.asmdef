@@ -1,0 +1,16 @@
+{
+    "name": "TurtleGamesStudio.Joystick",
+    "rootNamespace": "TurtleGamesStudio",
+    "references": [
+        "GUID:0c856b6f0504acc45a06ca18947a0ea3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "TurtleGamesStudio.Utilities",
+    "rootNamespace": "TurtleGamesStudio.Utilities",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2895978588067466261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8102788438872375110}
+  - component: {fileID: 4473086543353229902}
+  - component: {fileID: 5080114987899945643}
+  m_Layer: 0
+  m_Name: ProjectScope
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8102788438872375110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2895978588067466261}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4473086543353229902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2895978588067466261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 238ee66aa2bafad47bf60938e98aebca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5080114987899945643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2895978588067466261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a91cd3413514c459fdd796e3e2a209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _delayBetweenInterstitial: 60
+  _firstParty: {fileID: 11400000, guid: 2bcf35ddd094be142a99cf7ea9f5df9d, type: 2}
+  _mapBases: {fileID: 11400000, guid: 7f3ca5b9435e18d4e9af6572b891d1a1, type: 2}
+  _scenesConfiguration: {fileID: 11400000, guid: 54a91f6bced2f16449b7d2b1feef4463, type: 2}
+  _skinBase: {fileID: 11400000, guid: 0d26e6f90b3062e4bb718a327410f788, type: 2}
+  _purchasingSkinBase: {fileID: 11400000, guid: 3699bf2426940aa47a05a83ec9b63928, type: 2}
+  _resourceIcons: {fileID: 11400000, guid: d50c5a29147b03346b05749f25857101, type: 2}
+  _playerData: {fileID: 11400000, guid: e77ecd55825a8f847a9b732512297ec6, type: 2}
+  _commonCarStatsUpgradeData: {fileID: 11400000, guid: bef62fed0a1ef514ca505497b07bf4e2, type: 2}
+  _commonCarSettings: {fileID: 11400000, guid: c9e235cf3f54f9b4084c81ee42a3ae94, type: 2}
+  _musicPlayerTemplate: {fileID: 6556279613202614665, guid: 65f1ae86eee60dc4baa758a70cb1213f, type: 3}
+  _soundPlayerTemplate: {fileID: 6840201433285861275, guid: aaf59d1798834ef4181a14595d922b3b, type: 3}
